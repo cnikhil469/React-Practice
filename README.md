@@ -1,3 +1,3 @@
 # React-Practice
 
-Its just a practice for react library
+Its just a practice for learning react library
